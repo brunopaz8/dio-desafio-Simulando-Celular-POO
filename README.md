@@ -1,4 +1,4 @@
-# 📚 Simulador de Celular - Desafio DIO
+# 📚 Simulador de Celular - Desafio DIO 📱
 
 Aplicação de simulação de funcionalidades básicas de um celular utilizando os princípios da Programação Orientada a Objetos (POO) em C#. Desenvolvido como parte de um desafio da plataforma DIO.
 
