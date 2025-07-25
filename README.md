@@ -7,7 +7,7 @@ Aplicação de simulação de funcionalidades básicas de um celular utilizando 
 ## ⚒️ Tecnologias utilizadas
 * .NET 7
 * C# 11
-   -Programação Orientada a Objetos (classes, herança, polimorfismo)
+   - Programação Orientada a Objetos (classes, herança, polimorfismo)
 
 ---
 
